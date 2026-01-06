@@ -97,7 +97,7 @@
 @font-face {
   font-family: 'Rubik', sans-serif}
 :root {
-  --color-primary: #1B1412;
+--color-primary: #1B1412;
   --color-secondary: #3B2A3F;
   --color-accent: #D18B47;
   --color-background: #F3E7D3;
@@ -157,6 +157,13 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
+  --primary-color: #E60000;
+  --secondary-color: #660000;
+  --accent-color: #00C9A7;
+  --background-color: #FFFFFF;
+  --surface-color: #F9FAFB;
+  --text-color: #4A4A4A;
+  --text-secondary-color: #8C8C8C;
 }
 
 * {
@@ -424,12 +431,12 @@ a:hover {
 
 /* Navbar Styles */
 :root {
-  --primary: #8B4513;
-  --primary-dark: #6B3410;
-  --primary-light: #A0522D;
+  --primary: #E60000;
+  --primary-dark: #E60000;
+  --primary-light: #E60000;
   --text-dark: #2C1810;
   --text-light: #FFFFFF;
-  --bg-light: #FFF8F0;
+  --bg-light: #FFFFFF;
   --shadow: rgba(0, 0, 0, 0.1);
   --transition: all 0.3s ease;
 }
