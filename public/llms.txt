@@ -1,0 +1,53 @@
+# קפה בגבעה — Generative Engine Optimization Map
+
+> A מסעדנות ואירוח business.
+
+---
+
+## Pages
+
+### Home
+https://-44c2716c.zappy5.app
+
+### Menu Highlights
+https://-44c2716c.zappy5.app/menu
+
+### About
+https://-44c2716c.zappy5.app/about
+
+### Contact
+https://-44c2716c.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-44c2716c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-44c2716c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-44c2716c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קפה בגבעה
+קפה בגבעה is a business in the מסעדנות ואירוח industry.
+
+## Target Audience
+משפחות ואוהבי קפה
+
+## Industry
+מסעדנות ואירוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-44c2716c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-44c2716c.zappy5.app/robots.txt
